@@ -1,2 +1,2 @@
-# Python_for_Data_Analysis
+# Python_Data_Science
 
